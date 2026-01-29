@@ -40,8 +40,12 @@ plugins:
 minima:
   skin: dark
 
+collections_dir: content_collections
 collections:
   deployment:
+    output: true
+  investment:
+    output: true
 
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
