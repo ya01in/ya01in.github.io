@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ya01in, Nicholas Li, personal blog posts about career, study notes, and more.
 domain: "ya01in.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ya01in.github.io" # Your site's production URL
 github_username:  ya01in
 
 # Build settings
