@@ -1,0 +1,13 @@
+---
+layout: base
+title: Investment Log
+---
+<h1>Investment logs since 2025 June.</h1>
+
+<ul>
+  {% for issue in site.investment %}
+    <li>
+      <h2><a href="{{ issue.url }}">{{ issue.title }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
