@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anthropic AI Fluency framwork & foundation: project"
-date:   2024-03-14 09:18:47 +0800
+date:   2026-03-14 22:48:00 +0800
 categories: Career
 ---
 

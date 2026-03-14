@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anthropic AI Fluency framwork & foundation: Notes"
-date:   2024-03-14 09:18:47 +0800
+date:   2026-03-14 22:48:00 +0800
 categories: Career
 ---
 ## 蛤？什麼架構什麼基礎
